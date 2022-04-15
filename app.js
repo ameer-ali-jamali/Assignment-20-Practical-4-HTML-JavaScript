@@ -69,6 +69,23 @@ Q4: Write a program to print the list of prime numbers. [2 bonus marks]
 */
 ///////////////////////////////////////////////////////////////////////
 
+// let num1 = parseInt(prompt("Enter Any Number to know is it Prime Number or not"))
+// if (num1 < 2) {
+//     alert("Its not  Prime Number")
+// }
+// for (let i = 2; i < num1; i++) {
+//     if (num1 % 2 == 0) {
+//         alert("Its not prome number")
+//         break;
+//     }
+
+//     else if (num1 % 2 != 0) {
+//         alert("Its prime number")
+//         break;
+//     }
+// }
+
+
 ////////////////////////////////////////////////////////////////////////
 /* 
 
