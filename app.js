@@ -22,6 +22,7 @@ until user wants.
 //     var num3 = prompt("Do You want to continue  >>> Press ...Y  Or Press Any key For Cancel")
 //     }while(num3=="Y" || num3=="y")
 
+
 ////////////////////////////////////////////////////////////////////////
 /* 
 
@@ -60,6 +61,7 @@ and counts the number of times vowels entered.
 // }while(choice=="y")
 
 // alert("You Entered Total  = " + count + " Letters  >>> " + " = " + counter +  " Is  Vowel Letters")
+
 
 ////////////////////////////////////////////////////////////////////////
 /* 
