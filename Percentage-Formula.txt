@@ -3,7 +3,7 @@ what percent is 10 of 20?
 	p = (class attend * 100)/total class
 
 
-   num1 = total class
+num1 = total class
 num2 = class attend
 
 p = (num2 * 100)/num1
